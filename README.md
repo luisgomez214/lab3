@@ -1,3 +1,4 @@
+![https://github.com/luisgomez214/lab3/actions?query=workflow%3Atests](https://github.com/luisgomez214/lab3/workflows/tests/badge.svg)
 # Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
